@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhinav/GSoC/labyrinth/labyrinth.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+queue
+-
+algorithm
+-
+

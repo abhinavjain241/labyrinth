@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Labyrinth.dir/labyrinth.cpp.o  -o Labyrinth -rdynamic 
