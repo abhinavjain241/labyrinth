@@ -1,0 +1,147 @@
+-- The C compiler identification is GNU 4.8.2
+-- The CXX compiler identification is GNU 4.8.2
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.26") 
+-- checking for module 'gsl'
+--   found gsl, version 1.16
+-- checking for module 'eigen3'
+--   found eigen3, version 3.2.0
+-- checking for module 'eigen3'
+--   found eigen3, version 3.2.0
+-- Found eigen: /usr/include/eigen3  
+-- checking for module 'flann'
+--   found flann, version 1.8.4
+-- Found Flann: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a  
+-- Found qhull: /usr/lib/x86_64-linux-gnu/libqhull.so  
+-- checking for module 'libopenni'
+--   found libopenni, version 1.5.4.0
+-- Found openni: /usr/lib/libOpenNI.so  
+-- checking for module 'libopenni2'
+--   found libopenni2, version 2.2.0.3
+-- Found OpenNI2: /usr/lib/libOpenNI2.so  
+-- Found libusb-1.0: /usr/include  
+-- Found PCL_COMMON: /usr/lib/libpcl_common.so  
+-- Found PCL_KDTREE: /usr/lib/libpcl_kdtree.so  
+-- Found PCL_OCTREE: /usr/lib/libpcl_octree.so  
+-- Found PCL_SEARCH: /usr/lib/libpcl_search.so  
+-- Found PCL_SURFACE: /usr/lib/libpcl_surface.so  
+-- Found PCL_SAMPLE_CONSENSUS: /usr/lib/libpcl_sample_consensus.so  
+-- Found PCL_IO: /usr/lib/libpcl_io.so  
+-- Found PCL_FILTERS: /usr/lib/libpcl_filters.so  
+-- Found PCL_FEATURES: /usr/lib/libpcl_features.so  
+-- Found PCL_GEOMETRY: /usr/include/pcl-1.7  
+-- Found PCL_KEYPOINTS: /usr/lib/libpcl_keypoints.so  
+-- Found PCL_REGISTRATION: /usr/lib/libpcl_registration.so  
+-- Found PCL_SEGMENTATION: /usr/lib/libpcl_segmentation.so  
+-- Found PCL_RECOGNITION: /usr/lib/libpcl_recognition.so  
+-- Found PCL_VISUALIZATION: /usr/lib/libpcl_visualization.so  
+-- Found PCL_PEOPLE: /usr/lib/libpcl_people.so  
+-- Found PCL_OUTOFCORE: /usr/lib/libpcl_outofcore.so  
+-- Found PCL_TRACKING: /usr/lib/libpcl_tracking.so  
+-- Found PCL_APPS: /usr/lib/libpcl_apps.so  
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found X11: /usr/lib/x86_64-linux-gnu/libX11.so
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so  
+-- OpenNI2 found at /usr/include/openni2
+-- Looking for include file pthread.h
+-- Looking for include file pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- checking for module 'libxml++-2.6'
+--   found libxml++-2.6, version 2.36.0
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- checking for module 'gtk+-2.0'
+--   found gtk+-2.0, version 2.24.23
+-- checking for module 'gtkgl-2.0'
+--   found gtkgl-2.0, version 2.0.1
+-- checking for module 'gtkmm-2.4'
+--   found gtkmm-2.4, version 2.24.4
+-- checking for module 'libglademm-2.4'
+--   found libglademm-2.4, version 2.6.7
+-- checking for module 'gthread-2.0'
+--   found gthread-2.0, version 2.40.2
+-- checking for module 'libgnomecanvas-2.0'
+--   found libgnomecanvas-2.0, version 2.30.3
+-- checking for module 'libgnomecanvasmm-2.6'
+--   found libgnomecanvasmm-2.6, version 2.26.0
+-- checking for module 'gtkglextmm-1.2'
+--   found gtkglextmm-1.2, version 1.2.0
+-- Looking for Q_WS_X11
+-- Looking for Q_WS_X11 - found
+-- Looking for Q_WS_WIN
+-- Looking for Q_WS_WIN - not found
+-- Looking for Q_WS_QWS
+-- Looking for Q_WS_QWS - not found
+-- Looking for Q_WS_MAC
+-- Looking for Q_WS_MAC - not found
+-- Found Qt4: /usr/bin/qmake-qt4 (found version "4.8.6") 
+-- Creating CPP interfaces
+-- Boost version: 1.54.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Performing Test COMPILER_SUPPORTS_CXX11
+-- Performing Test COMPILER_SUPPORTS_CXX11 - Success
+-- Performing Test COMPILER_SUPPORTS_CXX0X
+-- Performing Test COMPILER_SUPPORTS_CXX0X - Success
+-- Processing component openniServer
+-- Processing component rgbdManualCalibrator
+-- Processing component giraffeClient
+-- Processing component pclRGBDServer
+-- Processing component introrob
+-- Processing component replayController
+-- Processing component gazeboserver
+-- Processing component giraffeServer
+-- Processing component basic_component_qt
+-- Processing component teleoperator
+-- Processing component rgbdCalibrator
+-- Processing component colorTuner
+-- Processing component basic_server
+-- Processing component openni1Server
+-- Processing component cameraserver
+-- Processing component namingService
+-- Processing component recorder
+-- Processing component basic_component
+-- Processing component visualHFSM
+-- Processing component introrob_qt
+-- Processing component replayer
+-- Processing component cameraview
+-- Processing component rgbdViewer
+-- Processing component naoserver
+-- Processing component kobuki_driver
+-- Processing component opencvdemo
+-- Processing component remoteConfiguration
+-- Processing component cameraview_icestorm
+-- Processing component naoviewer
+-- Processing component icestorm
+-- Processing component followBall
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/abhinav/GSoC/JdeRobot

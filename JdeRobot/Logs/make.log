@@ -1,0 +1,451 @@
+[  1%] Generating bodyencoders.cpp, bodyencoders.h
+[  1%] Generating kinectleds.cpp, kinectleds.h
+[  1%] Generating image.cpp, image.h
+[  2%] Generating wiimote.cpp, wiimote.h
+[  2%] Generating encoders.cpp, encoders.h
+[  2%] Generating replayControl.cpp, replayControl.h
+[  3%] Generating exceptions.cpp, exceptions.h
+[  3%] Generating pose3d.cpp, pose3d.h
+[  3%] Generating jointmotor.cpp, jointmotor.h
+[  4%] Generating datetime.cpp, datetime.h
+[  4%] Generating pose3dmotors.cpp, pose3dmotors.h
+[  4%] Generating camera.cpp, camera.h
+[  5%] Generating naomotions.cpp, naomotions.h
+[  5%] Generating namingService.cpp, namingService.h
+[  5%] Generating pose3dencoders.cpp, pose3dencoders.h
+[  6%] Generating body.cpp, body.h
+[  6%] Generating bodymovements.cpp, bodymovements.h
+[  6%] Generating naofollowball.cpp, naofollowball.h
+[  7%] Generating motors.cpp, motors.h
+[  7%] Generating recorder.cpp, recorder.h
+[  7%] Generating containers.cpp, containers.h
+[  8%] Generating jcm.cpp, jcm.h
+[  8%] Generating remoteCloud.cpp, remoteCloud.h
+[  8%] Generating ptmotors.cpp, ptmotors.h
+[  9%] Generating bodymotors.cpp, bodymotors.h
+[  9%] Generating common.cpp, common.h
+[  9%] Generating pointcloud.cpp, pointcloud.h
+[ 10%] Generating laser.cpp, laser.h
+[ 10%] Generating genericData.cpp, genericData.h
+[ 10%] Generating varcolor.cpp, varcolor.h
+[ 11%] Generating remoteConfig.cpp, remoteConfig.h
+[ 11%] Generating sonars.cpp, sonars.h
+[ 11%] Generating ptencoders.cpp, ptencoders.h
+Scanning dependencies of target JderobotInterfaces
+[ 11%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/kinectleds.cpp.o
+[ 11%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/image.cpp.o
+[ 12%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/wiimote.cpp.o
+[ 12%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/encoders.cpp.o
+[ 12%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/replayControl.cpp.o
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/exceptions.cpp.o
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3d.cpp.o
+[ 13%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/jointmotor.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/datetime.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3dmotors.cpp.o
+[ 14%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/camera.cpp.o
+[ 15%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/naomotions.cpp.o
+[ 15%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/namingService.cpp.o
+[ 15%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pose3dencoders.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/body.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodymovements.cpp.o
+[ 16%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/naofollowball.cpp.o
+[ 17%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/motors.cpp.o
+[ 17%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/recorder.cpp.o
+[ 17%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/containers.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/jcm.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/remoteCloud.cpp.o
+[ 18%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/ptmotors.cpp.o
+[ 19%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodymotors.cpp.o
+[ 19%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/common.cpp.o
+[ 20%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/pointcloud.cpp.o
+[ 20%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/laser.cpp.o
+[ 20%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/genericData.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/varcolor.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/remoteConfig.cpp.o
+[ 21%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/sonars.cpp.o
+[ 22%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/ptencoders.cpp.o
+[ 22%] Building CXX object src/stable/interfaces/cpp/jderobot/CMakeFiles/JderobotInterfaces.dir/bodyencoders.cpp.o
+Linking CXX shared library libJderobotInterfaces.so
+[ 22%] Built target JderobotInterfaces
+Scanning dependencies of target colorspacesmm
+[ 22%] Building CXX object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesmm.dir/imagecv.cpp.o
+Linking CXX static library libcolorspacesmm.a
+[ 22%] Built target colorspacesmm
+Scanning dependencies of target logger
+[ 22%] Building CXX object src/stable/libs/log/CMakeFiles/logger.dir/Logger.cpp.o
+Linking CXX shared library liblogger.so
+[ 22%] Built target logger
+Scanning dependencies of target parallelIce
+[ 22%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIce.dir/cameraClient.cpp.o
+[ 22%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIce.dir/pointcloudClient.cpp.o
+[ 23%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIce.dir/laserClient.cpp.o
+Linking CXX static library libparallelIce.a
+[ 23%] Built target parallelIce
+Scanning dependencies of target colorspacesmmshare
+[ 23%] Building CXX object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesmmshare.dir/imagecv.cpp.o
+Linking CXX shared library libcolorspacesmm.so
+[ 23%] Built target colorspacesmmshare
+Scanning dependencies of target parallelIceshare
+[ 23%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIceshare.dir/cameraClient.cpp.o
+[ 23%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIceshare.dir/pointcloudClient.cpp.o
+[ 24%] Building CXX object src/stable/libs/parallelIce/CMakeFiles/parallelIceshare.dir/laserClient.cpp.o
+Linking CXX shared library libparallelIce.so
+[ 24%] Built target parallelIceshare
+Scanning dependencies of target geometry
+[ 24%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/matriz3x3.cpp.o
+[ 25%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/matriz4x4.cpp.o
+[ 25%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/plano.cpp.o
+[ 26%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/utils.cpp.o
+[ 26%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Line2D.cpp.o
+[ 26%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Segment2D.cpp.o
+[ 27%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Point2D.cpp.o
+[ 27%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Point3D.cpp.o
+[ 27%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Line3D.cpp.o
+[ 28%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Plane3D.cpp.o
+[ 28%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/Segment3D.cpp.o
+[ 28%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/collada/colladaparser.cpp.o
+[ 29%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/collada/color.cpp.o
+[ 29%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/collada/malla.cpp.o
+[ 29%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/collada/material.cpp.o
+[ 30%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/collada/submalla.cpp.o
+[ 30%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/progeo/Progeo.cpp.o
+[ 30%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/segmento.cpp.o
+[ 31%] Building CXX object src/stable/libs/geometry/CMakeFiles/geometry.dir/math/recta.cpp.o
+Linking CXX shared library libgeometry.so
+[ 31%] Built target geometry
+Scanning dependencies of target pioneer
+[ 31%] Building C object src/stable/libs/pioneer/CMakeFiles/pioneer.dir/pioneer.c.o
+Linking C static library libpioneer.a
+[ 31%] Built target pioneer
+Scanning dependencies of target pioneershare
+[ 32%] Building C object src/stable/libs/pioneer/CMakeFiles/pioneershare.dir/pioneer.c.o
+Linking C shared library libpioneer.so
+[ 32%] Built target pioneershare
+Scanning dependencies of target depthLib
+[ 33%] Building CXX object src/stable/libs/depthLib/CMakeFiles/depthLib.dir/DepthFilter.cpp.o
+[ 33%] Building CXX object src/stable/libs/depthLib/CMakeFiles/depthLib.dir/DepthSampler.cpp.o
+Linking CXX static library libdepthLib.a
+[ 33%] Built target depthLib
+Scanning dependencies of target depthLibshare
+[ 33%] Building CXX object src/stable/libs/depthLib/CMakeFiles/depthLibshare.dir/DepthFilter.cpp.o
+[ 34%] Building CXX object src/stable/libs/depthLib/CMakeFiles/depthLibshare.dir/DepthSampler.cpp.o
+Linking CXX shared library libdepthLib.so
+[ 34%] Built target depthLibshare
+Scanning dependencies of target fuzzylib
+[ 35%] Building C object src/stable/libs/fuzzylib/CMakeFiles/fuzzylib.dir/fuzzylib.c.o
+Linking C static library libfuzzylib.a
+[ 35%] Built target fuzzylib
+Scanning dependencies of target fuzzyshare
+[ 35%] Building C object src/stable/libs/fuzzylib/CMakeFiles/fuzzyshare.dir/fuzzylib.c.o
+Linking C shared library libfuzzylib.so
+[ 35%] Built target fuzzyshare
+Scanning dependencies of target progeo
+[ 35%] Building C object src/stable/libs/progeo/CMakeFiles/progeo.dir/progeo.c.o
+Linking C static library libprogeo.a
+[ 35%] Built target progeo
+Scanning dependencies of target progeoshare
+[ 36%] Building C object src/stable/libs/progeo/CMakeFiles/progeoshare.dir/progeo.c.o
+Linking C shared library libprogeo.so
+[ 36%] Built target progeoshare
+Scanning dependencies of target colorspaces
+[ 36%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspaces.dir/rgb2hsv.c.o
+[ 37%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspaces.dir/rgb2yuv.c.o
+Linking C static library libcolorspaces.a
+[ 37%] Built target colorspaces
+Scanning dependencies of target colorspacesshare
+[ 38%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesshare.dir/rgb2hsv.c.o
+[ 38%] Building C object src/stable/libs/visionlib/colorspaces/CMakeFiles/colorspacesshare.dir/rgb2yuv.c.o
+Linking C shared library libcolorspaces.so
+[ 38%] Built target colorspacesshare
+Scanning dependencies of target cvblob
+[ 38%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvblob.cpp.o
+[ 39%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvlabel.cpp.o
+[ 39%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvaux.cpp.o
+[ 39%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvcontour.cpp.o
+[ 40%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvtrack.cpp.o
+[ 40%] Building CXX object src/stable/libs/visionlib/cvBlob/CMakeFiles/cvblob.dir/cvcolor.cpp.o
+Linking CXX shared library libcvblob.so
+[ 40%] Built target cvblob
+Scanning dependencies of target cvfast
+[ 40%] Building CXX object src/stable/libs/visionlib/cvFast/CMakeFiles/cvfast.dir/cvfast.cpp.o
+Linking CXX shared library libcvfast.so
+[ 40%] Built target cvfast
+Scanning dependencies of target imgAnalyze
+[ 41%] Building CXX object src/stable/libs/visionlib/imgAnalyze/CMakeFiles/imgAnalyze.dir/geometry.cpp.o
+[ 41%] Building CXX object src/stable/libs/visionlib/imgAnalyze/CMakeFiles/imgAnalyze.dir/image.cpp.o
+[ 41%] Building CXX object src/stable/libs/visionlib/imgAnalyze/CMakeFiles/imgAnalyze.dir/linesDetection.cpp.o
+Linking CXX shared library libimgAnalyze.so
+[ 41%] Built target imgAnalyze
+Scanning dependencies of target jderobotutil
+[ 41%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutil.dir/observer.cpp.o
+[ 41%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutil.dir/paramdict.cpp.o
+[ 42%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutil.dir/time.cpp.o
+Linking CXX static library libjderobotutil.a
+[ 42%] Built target jderobotutil
+Scanning dependencies of target jderobotutilshare
+[ 42%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutilshare.dir/observer.cpp.o
+[ 42%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutilshare.dir/paramdict.cpp.o
+[ 43%] Building CXX object src/stable/libs/jderobotutil/CMakeFiles/jderobotutilshare.dir/time.cpp.o
+Linking CXX shared library libjderobotutil.so
+[ 43%] Built target jderobotutilshare
+Scanning dependencies of target xmlParser
+[ 43%] Building CXX object src/stable/libs/xmlParser/CMakeFiles/xmlParser.dir/xmlReaderParser.cpp.o
+[ 44%] Building CXX object src/stable/libs/xmlParser/CMakeFiles/xmlParser.dir/xmlWriterParser.cpp.o
+Linking CXX static library libxmlParser.a
+[ 44%] Built target xmlParser
+Scanning dependencies of target xmlParsershare
+[ 44%] Building CXX object src/stable/libs/xmlParser/CMakeFiles/xmlParsershare.dir/xmlReaderParser.cpp.o
+[ 45%] Building CXX object src/stable/libs/xmlParser/CMakeFiles/xmlParsershare.dir/xmlWriterParser.cpp.o
+Linking CXX shared library libxmlParser.so
+[ 45%] Built target xmlParsershare
+Scanning dependencies of target ns
+[ 46%] Building CXX object src/stable/libs/ns/CMakeFiles/ns.dir/ns.cpp.o
+Linking CXX shared library libns.so
+[ 46%] Built target ns
+Scanning dependencies of target openniServer
+[ 46%] Building CXX object src/stable/components/openniServer/CMakeFiles/openniServer.dir/openniServer.cpp.o
+[ 47%] Building CXX object src/stable/components/openniServer/CMakeFiles/openniServer.dir/myprogeo.cpp.o
+Linking CXX executable openniServer
+[ 47%] Built target openniServer
+Scanning dependencies of target rgbdManualCalibrator
+[ 47%] Building CXX object src/stable/components/rgbdManualCalibrator/CMakeFiles/rgbdManualCalibrator.dir/controller.cpp.o
+[ 48%] Building CXX object src/stable/components/rgbdManualCalibrator/CMakeFiles/rgbdManualCalibrator.dir/drawarea.cpp.o
+[ 48%] Building CXX object src/stable/components/rgbdManualCalibrator/CMakeFiles/rgbdManualCalibrator.dir/rgbdManualCalibrator.cpp.o
+[ 48%] Building CXX object src/stable/components/rgbdManualCalibrator/CMakeFiles/rgbdManualCalibrator.dir/view.cpp.o
+Linking CXX executable rgbdManualCalibrator
+[ 48%] Built target rgbdManualCalibrator
+Scanning dependencies of target giraffeClient
+[ 48%] Building CXX object src/stable/components/giraffeClient/CMakeFiles/giraffeClient.dir/giraffeClient.cpp.o
+[ 48%] Building CXX object src/stable/components/giraffeClient/CMakeFiles/giraffeClient.dir/controller.cpp.o
+[ 49%] Building CXX object src/stable/components/giraffeClient/CMakeFiles/giraffeClient.dir/view.cpp.o
+[ 49%] Building CXX object src/stable/components/giraffeClient/CMakeFiles/giraffeClient.dir/cameraconf.cpp.o
+Linking CXX executable giraffeClient
+[ 49%] Built target giraffeClient
+Scanning dependencies of target pclRGBDServer
+[ 49%] Building CXX object src/stable/components/pclRGBDServer/CMakeFiles/pclRGBDServer.dir/kinectServer.cpp.o
+Linking CXX executable pclRGBDServer
+[ 49%] Built target pclRGBDServer
+Scanning dependencies of target introrob
+[ 50%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/API.cpp.o
+[ 50%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/control.cpp.o
+[ 50%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/drawarea.cpp.o
+[ 51%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/gui.cpp.o
+[ 51%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/introrob.cpp.o
+[ 51%] Building CXX object src/stable/components/introrob/CMakeFiles/introrob.dir/MyAlgorithms.cpp.o
+[ 52%] Building C object src/stable/components/introrob/CMakeFiles/introrob.dir/pioneer.c.o
+[ 52%] Building C object src/stable/components/introrob/CMakeFiles/introrob.dir/pioneeropengl.c.o
+Linking CXX executable introrob
+[ 52%] Built target introrob
+Scanning dependencies of target replayController
+[ 52%] Building CXX object src/stable/components/replayController/CMakeFiles/replayController.dir/replayController.cpp.o
+[ 53%] Building CXX object src/stable/components/replayController/CMakeFiles/replayController.dir/replayControllerGui.cpp.o
+Linking CXX executable replayController
+[ 53%] Built target replayController
+Scanning dependencies of target giraffeServer
+[ 53%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/jointmotorComp.cpp.o
+[ 54%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/jointmotorI.cpp.o
+[ 54%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/worker.cpp.o
+[ 54%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/dynamixel.cpp.o
+[ 55%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/monitor.cpp.o
+[ 55%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/servo.cpp.o
+[ 55%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/q4serialport/q4serialport.cpp.o
+[ 56%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/moc_monitor.cpp.o
+[ 56%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/moc_q4serialport.cpp.o
+[ 56%] Building CXX object src/stable/components/giraffeServer/CMakeFiles/giraffeServer.dir/moc_worker.cpp.o
+Linking CXX executable giraffeServer
+[ 56%] Built target giraffeServer
+[ 56%] Generating gui/moc_gui.cxx
+Scanning dependencies of target basic_component_qt
+[ 57%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/basic_component_qt.cpp.o
+[ 57%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/control/threadcontrol.cpp.o
+[ 57%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/control/control.cpp.o
+[ 58%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/gui/threadgui.cpp.o
+[ 58%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/gui/gui.cpp.o
+[ 58%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/shared.cpp.o
+[ 59%] Building CXX object src/stable/components/basic_component_qt/CMakeFiles/basic_component_qt.dir/gui/moc_gui.cxx.o
+Linking CXX executable basic_component_qt
+[ 59%] Built target basic_component_qt
+Scanning dependencies of target teleoperatorPC
+[ 59%] Building CXX object src/stable/components/teleoperator/CMakeFiles/teleoperatorPC.dir/teleoperatorPC.cpp.o
+[ 59%] Building CXX object src/stable/components/teleoperator/CMakeFiles/teleoperatorPC.dir/SharedMemory.cpp.o
+[ 60%] Building CXX object src/stable/components/teleoperator/CMakeFiles/teleoperatorPC.dir/Gui.cpp.o
+[ 60%] Building CXX object src/stable/components/teleoperator/CMakeFiles/teleoperatorPC.dir/controlICE.cpp.o
+Linking CXX executable teleoperatorPC
+[ 60%] Built target teleoperatorPC
+Scanning dependencies of target rgbdCalibrator
+[ 60%] Building CXX object src/stable/components/rgbdCalibrator/CMakeFiles/rgbdCalibrator.dir/rgbdCalibrator.cpp.o
+[ 60%] Building CXX object src/stable/components/rgbdCalibrator/CMakeFiles/rgbdCalibrator.dir/viewer.cpp.o
+[ 61%] Building CXX object src/stable/components/rgbdCalibrator/CMakeFiles/rgbdCalibrator.dir/calibration.cpp.o
+[ 61%] Building CXX object src/stable/components/rgbdCalibrator/CMakeFiles/rgbdCalibrator.dir/geoUtils.cpp.o
+Linking CXX executable rgbdCalibrator
+[ 61%] Built target rgbdCalibrator
+Scanning dependencies of target colorTuner
+[ 62%] Building CXX object src/stable/components/colorTuner/CMakeFiles/colorTuner.dir/viewer.cpp.o
+[ 62%] Building CXX object src/stable/components/colorTuner/CMakeFiles/colorTuner.dir/colorTuner.cpp.o
+Linking CXX executable colorTuner
+[ 62%] Built target colorTuner
+[ 62%] Generating myInterface.cpp, myInterface.h
+Scanning dependencies of target basic_server
+[ 62%] Building CXX object src/stable/components/basic_server/CMakeFiles/basic_server.dir/basic_server.cpp.o
+[ 63%] Building CXX object src/stable/components/basic_server/CMakeFiles/basic_server.dir/myInterface.cpp.o
+Linking CXX executable basic_server
+[ 63%] Built target basic_server
+Scanning dependencies of target openni1Server
+[ 64%] Building CXX object src/stable/components/openni1Server/CMakeFiles/openni1Server.dir/openni1Server.cpp.o
+[ 64%] Building CXX object src/stable/components/openni1Server/CMakeFiles/openni1Server.dir/myprogeo.cpp.o
+Linking CXX executable openni1Server
+[ 64%] Built target openni1Server
+Scanning dependencies of target cameraserver
+[ 64%] Building CXX object src/stable/components/cameraserver/CMakeFiles/cameraserver.dir/cameraserver.cpp.o
+Linking CXX executable cameraserver
+[ 64%] Built target cameraserver
+Scanning dependencies of target namingService
+[ 64%] Building CXX object src/stable/components/namingService/CMakeFiles/namingService.dir/main.cpp.o
+[ 65%] Building CXX object src/stable/components/namingService/CMakeFiles/namingService.dir/NamingServiceJdeRobot.cpp.o
+Linking CXX executable namingService
+[ 65%] Built target namingService
+Scanning dependencies of target recorder
+[ 65%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/recorder.cpp.o
+[ 65%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/recordergui.cpp.o
+[ 66%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/poolWriteImages.cpp.o
+[ 66%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/poolWritePose3dEncoders.cpp.o
+[ 66%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/poolWriteLasers.cpp.o
+[ 67%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/poolWritePointCloud.cpp.o
+[ 67%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/poolWriteEncoders.cpp.o
+[ 67%] Building CXX object src/stable/components/recorder/CMakeFiles/recorder.dir/RingBuffer.cpp.o
+Linking CXX executable recorder
+[ 67%] Built target recorder
+Scanning dependencies of target basic_component
+[ 67%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/control/control.cpp.o
+[ 68%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/control/threadcontrol.cpp.o
+[ 68%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/gui/gui.cpp.o
+[ 68%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/gui/threadgui.cpp.o
+[ 69%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/basic_component.cpp.o
+[ 69%] Building CXX object src/stable/components/basic_component/CMakeFiles/basic_component.dir/shared.cpp.o
+Linking CXX executable basic_component
+[ 69%] Built target basic_component
+Scanning dependencies of target visualHFSM
+[ 69%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/iceinterface.cpp.o
+[ 70%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/point.cpp.o
+[ 70%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/node.cpp.o
+[ 70%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/transition.cpp.o
+[ 71%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/guinode.cpp.o
+[ 71%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/subautomata.cpp.o
+[ 71%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/guitransition.cpp.o
+[ 72%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/guisubautomata.cpp.o
+[ 72%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/generate.cpp.o
+[ 72%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/configfiledialog.cpp.o
+[ 73%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/editnodedialog.cpp.o
+[ 73%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/edittransitiondialog.cpp.o
+[ 73%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/edittransitioncodedialog.cpp.o
+[ 74%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/funvardialog.cpp.o
+[ 74%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/librariesdialog.cpp.o
+[ 74%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/loadfiledialog.cpp.o
+[ 75%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/renamedialog.cpp.o
+[ 75%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/renametransitiondialog.cpp.o
+[ 75%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/savefiledialog.cpp.o
+[ 76%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/popups/timerdialog.cpp.o
+[ 76%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/savefile.cpp.o
+[ 76%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/xmlparser.cpp.o
+[ 77%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/visualhfsm.cpp.o
+[ 77%] Building CXX object src/stable/components/visualHFSM/CMakeFiles/visualHFSM.dir/main.cpp.o
+Linking CXX executable visualHFSM
+[ 77%] Built target visualHFSM
+[ 77%] Generating qrc_resources.cxx
+[ 77%] Generating moc_depuratewindow.cxx
+[ 78%] Generating robot/moc_actuators.cxx
+[ 78%] Generating robot/moc_robot.cxx
+[ 78%] Generating robot/moc_sensors.cxx
+[ 79%] Generating robot/moc_threadupdaterobot.cxx
+[ 79%] Generating pioneer/moc_pioneer.cxx
+[ 79%] Generating pioneer/moc_pioneeropengl.cxx
+[ 80%] Generating gui/moc_gui.cxx
+[ 80%] Generating gui/moc_stategui.cxx
+[ 80%] Generating gui/moc_threadupdategui.cxx
+[ 81%] Generating gui/widget/moc_cameraswidget.cxx
+[ 81%] Generating gui/widget/moc_controlvw.cxx
+[ 81%] Generating gui/widget/moc_glwidget.cxx
+[ 82%] Generating gui/widget/moc_laserwidget.cxx
+Scanning dependencies of target introrob_qt
+[ 82%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/main.cpp.o
+[ 83%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/depuratewindow.cpp.o
+[ 83%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/MyAlgorithm.cpp.o
+[ 84%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/actuators.cpp.o
+[ 84%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/robot.cpp.o
+[ 84%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/sensors.cpp.o
+[ 85%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/threadupdaterobot.cpp.o
+[ 85%] Building C object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/pioneer/pioneer.c.o
+[ 85%] Building C object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/pioneer/pioneeropengl.c.o
+[ 86%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/gui.cpp.o
+[ 86%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/stategui.cpp.o
+[ 86%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/threadupdategui.cpp.o
+[ 87%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/cameraswidget.cpp.o
+[ 87%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/controlvw.cpp.o
+[ 87%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/glwidget.cpp.o
+[ 88%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/laserwidget.cpp.o
+[ 88%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/moc_depuratewindow.cxx.o
+[ 88%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/moc_actuators.cxx.o
+[ 89%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/moc_robot.cxx.o
+[ 89%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/moc_sensors.cxx.o
+[ 89%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/robot/moc_threadupdaterobot.cxx.o
+[ 90%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/pioneer/moc_pioneer.cxx.o
+[ 90%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/pioneer/moc_pioneeropengl.cxx.o
+[ 90%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/moc_gui.cxx.o
+[ 91%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/moc_stategui.cxx.o
+[ 91%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/moc_threadupdategui.cxx.o
+[ 91%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/moc_cameraswidget.cxx.o
+[ 92%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/moc_controlvw.cxx.o
+[ 92%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/moc_glwidget.cxx.o
+[ 92%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/gui/widget/moc_laserwidget.cxx.o
+[ 93%] Building CXX object src/stable/components/introrob_qt/CMakeFiles/introrob_qt.dir/qrc_resources.cxx.o
+Linking CXX executable introrob_qt
+[ 93%] Built target introrob_qt
+Scanning dependencies of target replayer
+[ 93%] Building CXX object src/stable/components/replayer/CMakeFiles/replayer.dir/replayer.cpp.o
+[ 93%] Building CXX object src/stable/components/replayer/CMakeFiles/replayer.dir/replayergui.cpp.o
+[ 94%] Building CXX object src/stable/components/replayer/CMakeFiles/replayer.dir/control.cpp.o
+Linking CXX executable replayer
+[ 94%] Built target replayer
+Scanning dependencies of target cameraview
+[ 94%] Building CXX object src/stable/components/cameraview/CMakeFiles/cameraview.dir/cameraview.cpp.o
+[ 95%] Building CXX object src/stable/components/cameraview/CMakeFiles/cameraview.dir/viewer.cpp.o
+Linking CXX executable cameraview
+[ 95%] Built target cameraview
+Scanning dependencies of target rgbdViewer
+[ 96%] Building CXX object src/stable/components/rgbdViewer/CMakeFiles/rgbdViewer.dir/rgbdViewer.cpp.o
+[ 96%] Building CXX object src/stable/components/rgbdViewer/CMakeFiles/rgbdViewer.dir/drawarea.cpp.o
+[ 96%] Building CXX object src/stable/components/rgbdViewer/CMakeFiles/rgbdViewer.dir/rgbdViewergui.cpp.o
+[ 97%] Building CXX object src/stable/components/rgbdViewer/CMakeFiles/rgbdViewer.dir/myprogeo.cpp.o
+Linking CXX executable rgbdViewer
+[ 97%] Built target rgbdViewer
+Scanning dependencies of target opencvdemo
+[ 97%] Building CXX object src/stable/components/opencvdemo/CMakeFiles/opencvdemo.dir/opencvdemo.cpp.o
+[ 97%] Building CXX object src/stable/components/opencvdemo/CMakeFiles/opencvdemo.dir/viewer.cpp.o
+Linking CXX executable opencvdemo
+[ 97%] Built target opencvdemo
+Scanning dependencies of target remoteConfiguration
+[ 98%] Building CXX object src/stable/components/remoteConfiguration/CMakeFiles/remoteConfiguration.dir/remoteConfiguration.cpp.o
+[ 98%] Building CXX object src/stable/components/remoteConfiguration/CMakeFiles/remoteConfiguration.dir/myparser.cpp.o
+Linking CXX executable remoteConfiguration
+[ 98%] Built target remoteConfiguration
+Scanning dependencies of target cameraview_icestorm
+[ 98%] Building CXX object src/stable/components/cameraview_icestorm/CMakeFiles/cameraview_icestorm.dir/viewer.cpp.o
+[ 98%] Building CXX object src/stable/components/cameraview_icestorm/CMakeFiles/cameraview_icestorm.dir/cameraview_icestorm.cpp.o
+Linking CXX executable cameraview_icestorm
+[ 98%] Built target cameraview_icestorm
+Scanning dependencies of target naooperator
+[ 98%] Building CXX object src/stable/components/naoviewer/CMakeFiles/naooperator.dir/sensors.cpp.o
+[ 98%] Building CXX object src/stable/components/naoviewer/CMakeFiles/naooperator.dir/control.cpp.o
+[ 99%] Building CXX object src/stable/components/naoviewer/CMakeFiles/naooperator.dir/naooperator.cpp.o
+[ 99%] Building CXX object src/stable/components/naoviewer/CMakeFiles/naooperator.dir/displayer.cpp.o
+[ 99%] Building CXX object src/stable/components/naoviewer/CMakeFiles/naooperator.dir/main.cpp.o
+Linking CXX executable naooperator
+[ 99%] Built target naooperator
+Scanning dependencies of target followball
+[ 99%] Building CXX object src/stable/components/followBall/CMakeFiles/followball.dir/viewer.cpp.o
+[ 99%] Building CXX object src/stable/components/followBall/CMakeFiles/followball.dir/sensors.cpp.o
+[100%] Building CXX object src/stable/components/followBall/CMakeFiles/followball.dir/control.cpp.o
+[100%] Building CXX object src/stable/components/followBall/CMakeFiles/followball.dir/handler.cpp.o
+[100%] Building CXX object src/stable/components/followBall/CMakeFiles/followball.dir/main.cpp.o
+Linking CXX executable followball
+[100%] Built target followball

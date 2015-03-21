@@ -1,0 +1,35 @@
+abhinav@abhinav-Inspiron-3521  ~/GSoC  git clone https://github.com/abhinavjain241/JdeRobot.git
+Cloning into 'JdeRobot'...
+remote: Counting objects: 11521, done.
+remote: Total 11521 (delta 0), reused 0 (delta 0), pack-reused 11521
+Receiving objects: 100% (11521/11521), 50.04 MiB | 211.00 KiB/s, done.
+Resolving deltas: 100% (7471/7471), done.
+Checking connectivity... done.
+abhinav@abhinav-Inspiron-3521  ~/GSoC  cd JdeRobot 
+abhinav@abhinav-Inspiron-3521  ~/GSoC/JdeRobot   master  git remote add upstream https://github.com/RoboticsURJC/JdeRobot.git
+abhinav@abhinav-Inspiron-3521  ~/GSoC/JdeRobot   master  git fetch upstream 
+remote: Counting objects: 33, done.
+remote: Compressing objects: 100% (29/29), done.
+remote: Total 33 (delta 6), reused 0 (delta 0), pack-reused 2
+Unpacking objects: 100% (33/33), done.
+From https://github.com/RoboticsURJC/JdeRobot
+ * [new branch]      4.3        -> upstream/4.3
+ * [new branch]      4.4        -> upstream/4.4
+ * [new branch]      4.4-old    -> upstream/4.4-old
+ * [new branch]      jde+       -> upstream/jde+
+ * [new branch]      jdeneo.c   -> upstream/jdeneo.c
+ * [new branch]      master     -> upstream/master
+ * [new branch]      revert-6-build_doc -> upstream/revert-6-build_doc
+abhinav@abhinav-Inspiron-3521  ~/GSoC/JdeRobot   master  git rebase upstream/master 
+First, rewinding head to replay your work on top of it...
+Fast-forwarded master to upstream/master.
+abhinav@abhinav-Inspiron-3521  ~/GSoC/JdeRobot   master  git push -f origin master
+Username for 'https://github.com': abhinavjain241
+Password for 'https://abhinavjain241@github.com': 
+Counting objects: 62, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (30/30), done.
+Writing objects: 100% (32/32), 4.44 KiB | 0 bytes/s, done.
+Total 32 (delta 17), reused 0 (delta 0)
+To https://github.com/abhinavjain241/JdeRobot.git
+   1417f90..a7d2c41  master -> master
